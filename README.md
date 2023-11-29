@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning front-end
 - 📫 How to reach me
 -  discord : smgh.4032#6680
--  
+-  smgh.4032@gmail.com
 
 <!---
 itsMohammadGh/itsMohammadGh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
